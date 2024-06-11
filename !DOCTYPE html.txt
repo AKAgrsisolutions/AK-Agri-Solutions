@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AK Agri Solutions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact-info {
+            background-color: #e7e7e7;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AK Agri Solutions</h1>
+        <p>A Startup by an Agriculture Graduate and Ex-ATMA Employee</p>
+    </header>
+    <div class="container">
+        <section id="about">
+            <h2>About Us</h2>
+            <p>AK Agri Solutions is a startup founded by an agriculture graduate with over a decade of experience in ATMA and other central sponsored schemes in the Department of Agriculture. We specialize in agriculture extension activities, offering a wide range of services to support farmers and entrepreneurs in the agriculture sector.</p>
+        </section>
+        <section id="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li><strong>Training:</strong> We offer training on various topics related to agriculture and allied sectors.</li>
+                <li><strong>Exposure Visits:</strong> Organizing visits to progressive farmers and institutions, including historical and related places both within and outside the state.</li>
+                <li><strong>Farmer-Oriented Activities:</strong> Support for activities such as demonstrations, field days, exhibitions, and farm schools on new technologies like urban/terrace gardening, micro greens, hydroponics, aeroponics, drone usage, mechanization, and AI in farming.</li>
+                <li><strong>Event Management:</strong> Comprehensive event management services from stage decorations to hosting the program.</li>
+                <li><strong>Startup Support:</strong> Assistance with funding facilities available through the government for agriculture and allied activities, especially for entrepreneurs in food processing, manufacturing, and animal husbandry.</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <div class="contact-info">
+                <p><strong>Kumuda H P</strong><br>
+                Mobile: 9663539933<br>
+                Email: <a href="mailto:akagrisolutions2023@hotmail.com">akagrisolutions2023@hotmail.com</a>, <a href="mailto:akagrisolutions@hotmail.com">akagrisolutions@hotmail.com</a></p>
+                <p><strong>Harsha - Manager</strong><br>
+                Mobile: 9480392129</p>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 AK Agri Solutions. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
